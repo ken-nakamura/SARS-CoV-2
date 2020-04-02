@@ -1036,7 +1036,7 @@ SARS-CoV-2
 | MT106052        | Genbank         | 06-Feb-2020     | USA         | California    |                                                                        |
 | MT072688        | Genbank         | 13-Jan-2020     | Nepal       | Kathmandu     |                                                                        |
 | MT044258        | Genbank         | 27-Jan-2020     | USA         | California    |                                                                        |
-| MT044257        | Genbank         | 28-Jan-2020     | USA         | Illinois      |                                                                        |
+| MT044257        | Genbank         | 28-Jan-2020     | USA         | Illinois      | Chicago woman who returned from Wuhan, China                           |
 | MT039888        | Genbank         | 29-Jan-2020     | USA         | Massachusetts |                                                                        |
 | MT039887        | Genbank         | 31-Jan-2020     | USA         | Wisconsin     |                                                                        |
 | MT039890        | Genbank         |    Jan-2020     | South Korea |               |                                                                        |
@@ -1044,17 +1044,17 @@ SARS-CoV-2
 | MT027064        | Genbank         | 29-Jan-2020     | USA         | California    |                                                                        |
 | MT027063        | Genbank         | 29-Jan-2020     | USA         | California    |                                                                        |
 | MT027062        | Genbank         | 29-Jan-2020     | USA         | California    |                                                                        |
-| MT020881        | Genbank         | 25-Jan-2020     | USA         | Washington    |                                                                        |
-| MT020880        | Genbank         | 25-Jan-2020     | USA         | Washington    |                                                                        |
+| MT020881        | Genbank         | 25-Jan-2020     | USA         | Washington    | Washington state man who returned from Wuhan, China (nasopharyngeal swab)|
+| MT020880        | Genbank         | 25-Jan-2020     | USA         | Washington    | Washington state man who returned from Wuhan, China (oropharyngeal swab) |
 | MT019533        | Genbank         | 01-Jan-2020     | China       | Wuhan         | synonym: GWHABKJ00000000                                               |
 | MT019532        | Genbank         | 30-Dec-2019     | China       | Wuhan         | synonym: GWHABKI00000000                                               |
 | MT019531        | Genbank         | 30-Dec-2019     | China       | Wuhan         | synonym: GWHABKH00000000                                               |
 | MT019530        | Genbank         | 30-Dec-2019     | China       | Wuhan         | synonym: GWHABKG00000000                                               |
 | MT019529        | Genbank         | 23-Dec-2019     | China       | Wuhan         | synonym: GWHABKF00000000                                               |
 | MT007544        | Genbank         | 25-Jan-2020     | Australia   | Victoria      |                                                                        |
-| MN997409        | Genbank         | 22-Jan-2020     | USA         | Arizona       |                                                                        |
-| MN994468        | Genbank         | 22-Jan-2020     | USA         | California    |                                                                        |
-| MN994467        | Genbank         | 23-Jan-2020     | USA         | California    |                                                                        |
+| MN997409        | Genbank         | 22-Jan-2020     | USA         | Arizona       | Person who returned from Wuhan, China                                  |
+| MN994468        | Genbank         | 22-Jan-2020     | USA         | California    | Traveler from Wuhan, China                                             |
+| MN994467        | Genbank         | 23-Jan-2020     | USA         | California    | Person who returned from Wuhan, China                                  |
 | MN988713        | Genbank         | 21-Jan-2020     | USA         | Illinois      |                                                                        |
 | MN988669        | Genbank         | 02-Jan-2020     | China       | Wuhan         |                                                                        |
 | MN988668        | Genbank         | 02-Jan-2020     | China       | Wuhan         |                                                                        |
@@ -1062,7 +1062,7 @@ SARS-CoV-2
 | MN975262        | Genbank         | 11-Jan-2020     | China       | Shenzhen      | Traveler from Shenzhen to Wuhan (10 years old)                         |
 | MN938384        | Genbank         | 10-Jan-2020     | China       | Shenzhen      | Traveler from Shenzhen to Wuhan (66 years old)                         |
 | MT226610        | Genbank         | 20-Jan-2020     | China       |               |                                                                        |
-| LC521925        | Genbank         | 25-Jan-2020     | Japan       | Aichi         |                                                                        |
+| LC521925        | Genbank         | 25-Jan-2020     | Japan       | Aichi         | Traveler from Wuhan, China                                             |
 | LC522975        | Genbank         | 31-Jan-2020     | Japan       | Tokyo         |                                                                        |
 | LC522974        | Genbank         | 31-Jan-2020     | Japan       | Tokyo         |                                                                        |
 | LC522973        | Genbank         | 29-Jan-2020     | Japan       | Tokyo         |                                                                        |
